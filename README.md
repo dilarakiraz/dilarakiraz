@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<h3 align="center">Learning Kotlin & React</h3>
+<h3 align="center">Learning Kotlin & Swift</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🌱 I’m currently learning **Kotlin,React,Firebase,Java**
+- 🌱 I’m currently learning **Kotlin,Swift,Firebase,Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h3 align="center">Learning Kotlin </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🌱 I’m currently learning **Kotlin,Swift,Firebase,Java**
+- 🌱 I’m currently learning **Kotlin,Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

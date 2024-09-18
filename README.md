@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<h3 align="center">Learning Kotlin </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=04CDF7FF&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer" alt="Headline" />
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🌱 I’m currently learning **Kotlin,Java**
